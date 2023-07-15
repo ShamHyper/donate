@@ -17,11 +17,7 @@ My donate requisites
 
 -----------------------------------------------------------------------------------------------
 
-> Donation Alerts (large commission): https://www.donationalerts.com/r/shamhyper0
-
 > ETH (Ethereum): 0x634907686f395570eF91cd0a4e694C3Df810D9B0
-
-# OR
 
 ## SWIFT:
 SWIFT (USD $) payee account: 40817840103100038923
