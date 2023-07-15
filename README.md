@@ -32,7 +32,7 @@ AO Raiffeisenbank
 SWIFT: RZBMRUMM
 Address:28, Smolenskaya-Sennaya sq., Moscow, 119002
 
-#Intermediary Bank:
+# Intermediary Bank:
 The Bank of New York Mellon
 SWIFT: IRVTUS3N
 ABA: 021000018
