@@ -23,34 +23,24 @@ My donate requisites
 
 # OR
 
-> SWIFT (USD $) payee account: 40817840103100038923
+# SWIFT:
+SWIFT (USD $) payee account: 40817840103100038923
+Recipient: SHATTS MAKAR SERGEEVICH
 
-> Recipient: SHATTS MAKAR SERGEEVICH
+# Recipient's Bank:
+AO Raiffeisenbank
+SWIFT: RZBMRUMM
+Address:28, Smolenskaya-Sennaya sq., Moscow, 119002
 
-> Recipient's Bank:
+#Intermediary Bank:
+The Bank of New York Mellon
+SWIFT: IRVTUS3N
+ABA: 021000018
+CHIPS Routing No: 0001
+Address: One Wall Street, New York, NY 10286, United States of America
 
-> AO Raiffeisenbank
+#Correspondent account in an intermediary Bank:
+8901303402
 
-> SWIFT: RZBMRUMM
-
-> Address:28, Smolenskaya-Sennaya sq., Moscow, 119002
-
-> Intermediary Bank:
-
-> The Bank of New York Mellon
-
-> SWIFT: IRVTUS3N
-
-> ABA: 021000018
-
-> CHIPS Routing No: 0001
-
-> Address: One Wall Street, New York, NY 10286, United States of America
-
-> Correspondent account in an intermediary Bank:
-
-> 8901303402
-
-> Purpose of payment:
-
-> The purpose of payment is indicated in English and should disclose the essence of the translation, for example, "Current expenses for July for my child Ivanov Sergey", "Salary for June under Contract 55 dated 15.07.2015".
+#Purpose of payment:
+The purpose of payment is indicated in English and should disclose the essence of the translation, for example, "Current expenses for July for my child Ivanov Sergey", "Salary for June under Contract 55 dated 15.07.2015".
