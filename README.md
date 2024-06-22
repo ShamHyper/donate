@@ -2,15 +2,11 @@
 
 Сбер: 2202 2062 9079 0265
 
-Альфа: 2200 1514 4868 1119
-
 По номеру счёта: 40817810655175929701
-
-QIWI (скопируйте и вставьте в браузер): qiwi.com/n/SHAMHYPER
 
 Donation Alerts (имеется наценка за комиссию): https://www.donationalerts.com/r/shamhyper0
 
-ETH (Ethereum): 0x634907686f395570eF91cd0a4e694C3Df810D9B0
+USDT(TRC20): TAaBpuhdoPGNv9xnyne2nXQ5gLQLNUrY6V
 
 *Для заказов не из РФ/РБ/Казахстана, воспользуйтесь реквизитами ниже*
 
